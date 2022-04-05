@@ -14,5 +14,5 @@
   "dependencies": {
     "cross-env": "^7.0.3"
   },
-  "name": "qr-code-card"
+  "name": "qrcode-card"
 }
